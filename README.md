@@ -1,3 +1,7 @@
+# DIPLANT
+
+Dipping into the vast of plant world
+
 ## Inspiration
 
 Diamond app, Wikipedia, etc
@@ -23,3 +27,5 @@ This is my first time implementing crypto. So I'm kinda proud of it.
 Concept about a node in DESO and how to implement it. Also learn that the easiest way to implement echo3d (Google Scene Viewer) is actually not so compatible with many devices at this time but it's great technology to give attention to.
 
 ## What's next for Untitled
+
+Better in every aspect :)
