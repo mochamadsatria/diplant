@@ -1,5 +1,3 @@
-# Diplant
-
 ## Inspiration
 
 Diamond app, Wikipedia, etc
@@ -10,7 +8,7 @@ Provide whoever like me who is curious about plants with useful info.
 
 ## How we built it
 
-I create it with Figma, react, tailwindcss, DESO identity, and Echo3d.
+I create it with Figma, react, Tailwind CSS, DESO identity, and Echo3d. I first create the UI and the pages, then I implement the plant catalog, then implement echo3d to showcase the plant. You can access the AR within the plant page. The last part is solving the puzzle of DESO identity and transaction.
 
 ## Challenges we ran into
 
