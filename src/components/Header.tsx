@@ -1,9 +1,11 @@
 import { plants } from "../assets/constants";
 
-import { useLocation, Link } from "react-router-dom";
+import { useLocation, Link, useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
 
 export const HeaderA = () => {
+  const navigate = useNavigate();
+
   return (
     <div className="px-10">
       <div className="flex justify-between items-center py-3">
@@ -47,9 +49,7 @@ export const HeaderA = () => {
             </svg>
           </button>
 
-          <button
-            onClick={() => window.open("https://identity.deso.org/log-in")}
-          >
+          <button onClick={() => navigate("/login")}>
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
