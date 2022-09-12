@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 
+// @ts-ignore
 import BitcloutLogin from "react-bitclout-login";
 
 import LockOpenIcon from "@material-ui/icons/LockOpen";
